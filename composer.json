@@ -13,7 +13,7 @@
     "prefer-stable": true,
     "require": {
         "nelmio/alice": "~1.7",
-        "behat/behat": "~2.5",
+        "behat/behat": "~3.0.0",
         "symfony/yaml": "~2.4"
     },
     "autoload": {
